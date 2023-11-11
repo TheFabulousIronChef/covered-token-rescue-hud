@@ -12,5 +12,5 @@
     "scripts": ["covered-token-rescue-hud-GURPS.js"],
     "url": "https://github.com/TheFabulousIronChef/covered-token-rescue-hud/",
     "manifest": "https://raw.githubusercontent.com/TheFabulousIronChef/covered-token-rescue-hud-GURPS/main/module.json",
-    "download": "https://github.com/TheFabulousIronChef/covered-token-rescue-hud-GURPS/blob/main/covered-token-rescue-hud.zip"
+    "download": "https://github.com/TheFabulousIronChef/covered-token-rescue-hud-GURPS/raw/main/covered-token-rescue-hud-GURPS.zip"
 }
