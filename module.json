@@ -1,15 +1,15 @@
 {
-    "id": "covered-token-rescue-hud",
-    "title": "Covered Token Rescue HUD",
+    "id": "covered-token-rescue-hud-GURPS",
+    "title": "Covered Token Rescue HUD-GURPS",
     "description": "On hovering a token with tokens under it, shows images of tokens to allow you to select them",
-    "author": "Xaukael",
+    "author": "Xaukael modified by TheFabulousIronChef",
     "authors": [{"name":"Xaukael"}],
     "version": "1.1.0",
     "compatibility": {
         "minimum": "10",
         "verified": "11"
       },
-    "scripts": ["covered-token-rescue-hud.js"],
+    "scripts": ["covered-token-rescue-hud-GURPS.js"],
     "url": "https://github.com/TheFabulousIronChef/covered-token-rescue-hud/tree/main",
     "manifest": "https://github.com/TheFabulousIronChef/covered-token-rescue-hud/tree/module.json",
     "download": "https://github.com/TheFabulousIronChef/covered-token-rescue-hud/tree/covered-token-rescue-hud.zip"
