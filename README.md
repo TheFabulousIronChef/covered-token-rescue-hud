@@ -1,4 +1,6 @@
-# covered-token-rescue-hud
+# covered-token-rescue-hud-GURPS
+
+This is the same as below only modified to work with hex grids as per https://user-images.githubusercontent.com/46587602/275221189-1e9d0e30-0d2c-4065-a853-f580343ce731.png
 
 When hovering a token with another token completely covered by it, a small clickable element will show on the hud to select that covered token.
 
